@@ -14,7 +14,7 @@
     "http-server": "^14.1.1",
     "msnodesqlv8": "^4.2.1",
     "mssql": "^10.0.2",
-    "nodemailer": "^6.9.13"
+    "nodemailer": "^7.0.7"
   },
   "devDependencies": {
     "@playwright/test": "^1.44.1",
